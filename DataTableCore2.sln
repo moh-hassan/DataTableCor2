@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1NetCore", "ConsoleApp1NetCore\ConsoleApp1NetCore.csproj", "{2EA5C5A8-FB3A-4A69-BE64-A567EF976363}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTableCore2", "DataTableCore2\DataTableCore2.csproj", "{9B2A8C14-5CE9-4BAD-A117-3923FDAB7D4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EA5C5A8-FB3A-4A69-BE64-A567EF976363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA5C5A8-FB3A-4A69-BE64-A567EF976363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA5C5A8-FB3A-4A69-BE64-A567EF976363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA5C5A8-FB3A-4A69-BE64-A567EF976363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2A8C14-5CE9-4BAD-A117-3923FDAB7D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2A8C14-5CE9-4BAD-A117-3923FDAB7D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2A8C14-5CE9-4BAD-A117-3923FDAB7D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2A8C14-5CE9-4BAD-A117-3923FDAB7D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBD42DC7-E3F1-4942-B7B3-FCC59A9989C8}
+	EndGlobalSection
+EndGlobal
