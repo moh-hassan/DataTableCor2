@@ -22,7 +22,7 @@
 // FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 // OTHER DEALINGS IN THE SOFTWARE.
 #endregion
-#define  HAVE_ADO_NET
+
 #if HAVE_ADO_NET
 using System.Collections;
 using System.Collections.Generic;

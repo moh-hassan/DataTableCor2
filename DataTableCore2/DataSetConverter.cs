@@ -23,7 +23,7 @@
 // OTHER DEALINGS IN THE SOFTWARE.
 #endregion
 
-#define  HAVE_ADO_NET
+
 
 #if HAVE_ADO_NET
 using System;
